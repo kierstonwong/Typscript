@@ -1,2 +1,2 @@
 # Typscript
-All learning related typescript projects. 
+Learning related typescript content.
